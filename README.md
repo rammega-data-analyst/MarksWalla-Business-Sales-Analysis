@@ -152,6 +152,10 @@ Developed an interactive Excel dashboard using a green and white theme.
 
 Connected the Slicers to the Sales PivotTables and KPI PivotTable using Report Connections. This enables dynamic filtering of charts and KPI values based on user selections.
 
+## Interactive Dashboard
+
+![MarksWalla – Business & Sales Analysis Dashboard](Dashboard%20Screenshot.png)
+
 
 ## Key Business Insights
 
